@@ -1,0 +1,19 @@
+h4 {
+    margin-left: 8%;
+}
+img {
+    width: 150px;
+    height:200px;
+}
+.wrapper { 
+    display:flex; 
+    justify-content:space-between; 
+    width: 100vmax; 
+}
+.box { 
+    width: 30%;
+    height: 50%; 
+    text-align:center; 
+    border: rgb(177, 174, 174);
+    
+}

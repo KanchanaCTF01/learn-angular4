@@ -1,0 +1,13 @@
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+  
+.clear {
+      float: right;
+}
+.home {
+    padding-bottom: 350px;
+    background-color: orange;
+}
